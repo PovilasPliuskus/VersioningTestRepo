@@ -1,0 +1,13 @@
+{
+  "packages": {
+    ".": {
+      "path": ".",
+      "changelog-path": "CHANGELOG.md",
+      "version-file": "Automatic-Versioning-test.csproj",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true,
+      "release-type": "dotnet",
+      "include-v-in-tag": false
+    }
+  }
+}
