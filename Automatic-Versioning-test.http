@@ -1,0 +1,6 @@
+@Automatic_Versioning_test_HostAddress = http://localhost:5255
+
+GET {{Automatic_Versioning_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
