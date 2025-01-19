@@ -6,7 +6,7 @@
       "version-file": "Automatic-Versioning-test.csproj",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
-      "release-type": "dotnet",
+      "release-type": "simple",
       "include-v-in-tag": false
     }
   }
