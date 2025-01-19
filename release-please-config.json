@@ -5,15 +5,12 @@
       "changelog-path": "CHANGELOG.md",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
-      "version-file": "Automatic-Versioning-test.csproj",
       "release-type": "simple",
       "include-v-in-tag": false,
       "updaters": [
         {
-          "updater": "generic",
-          "file": "Automatic-Versioning-test.csproj",
-          "regex": "<Version>(.*?)</Version>",
-          "replacement": "<Version>${version}</Version>"
+          "updater": "version",
+          "file": "Automatic-Versioning-test.csproj"
         }
       ]
     }
