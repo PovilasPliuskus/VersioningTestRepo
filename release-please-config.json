@@ -9,8 +9,9 @@
       "include-v-in-tag": false,
       "updaters": [
         {
-          "updater": "version",
-          "file": "Automatic-Versioning-test.csproj"
+          "updater": "xml",
+          "file": "Automatic-Versioning-test.csproj",
+          "xpath": "/Project/PropertyGroup/Version"
         }
       ]
     }
