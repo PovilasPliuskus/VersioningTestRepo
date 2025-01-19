@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Automatic-Versioning-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625307db2ed4fe364a792358a85b0ff0c251f0e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f13a073d84362cf814f0697f905f14e96a04a82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Automatic-Versioning-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Automatic-Versioning-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
