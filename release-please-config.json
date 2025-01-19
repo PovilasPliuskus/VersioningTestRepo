@@ -11,7 +11,10 @@
         {
           "updater": "xml",
           "file": "Automatic-Versioning-test.csproj",
-          "xpath": "/Project/PropertyGroup/Version"
+          "value": "${{version}}",
+          "attribute": "Version",
+          "namespace": null,
+          "xpath": "//*[local-name()='Project']/*[local-name()='PropertyGroup']/*[local-name()='Version']"
         }
       ]
     }
