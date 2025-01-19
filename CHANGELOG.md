@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.1.0...1.1.1) (2025-01-19)
+
+
+### Bug Fixes
+
+* Rp 3 ([#11](https://github.com/PovilasPliuskus/VersioningTestRepo/issues/11)) ([27ec91a](https://github.com/PovilasPliuskus/VersioningTestRepo/commit/27ec91a65265dbea9d05efd7f66c75eee9f649b4))
+
 ## [1.1.0](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.0.1...1.1.0) (2025-01-19)
 
 
