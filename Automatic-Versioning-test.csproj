@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <!--x-release-please-start-version-->
-    <Version>1.1.7</Version>
+    <Version>1.2.0</Version>
     <!--x-release-please-end-->
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
