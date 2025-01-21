@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.2.0...2.0.0) (2025-01-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* Test commit ([#32](https://github.com/PovilasPliuskus/VersioningTestRepo/issues/32))
+
+### Features
+
+* Test commit ([#32](https://github.com/PovilasPliuskus/VersioningTestRepo/issues/32)) ([2c48fd1](https://github.com/PovilasPliuskus/VersioningTestRepo/commit/2c48fd153e08d853bf1b9e8623932ebc4e84be63))
+
 ## [1.2.0](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.1.7...1.2.0) (2025-01-21)
 
 
