@@ -6,24 +6,14 @@
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
       "include-v-in-tag": false,
-      "release-types": {
-        "simple": {
-          "changelog-path": "CHANGELOG.md",
-          "bump-minor-pre-major": true,
-          "bump-patch-for-minor-pre-major": true
-        },
-        "version-update": {
-          "updaters": [
-            {
-              "updater": "xml",
-              "file": "Automatic-Versioning-test.csproj",
-              "xpath": "/Project/PropertyGroup/Version",
-              "value": "${{version}}"
-            }
-          ]
+      "release-type": "simple",
+      "extra-files": [
+        {
+          "type": "xml",
+          "path": "Automatic-Versioning-test.csproj",
+          "xpath": "//Project/PropertyGroup/Version"
         }
-      },
-      "release-type": "simple"
+      ]
     }
   }
 }
