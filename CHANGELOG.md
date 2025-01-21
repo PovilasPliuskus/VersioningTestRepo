@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.1.7...1.2.0) (2025-01-21)
+
+
+### Features
+
+* Rp 5 ([#28](https://github.com/PovilasPliuskus/VersioningTestRepo/issues/28)) ([b35099e](https://github.com/PovilasPliuskus/VersioningTestRepo/commit/b35099e8cd04792d248439fc9224a8bb70bc718f))
+
 ## [1.1.7](https://github.com/PovilasPliuskus/VersioningTestRepo/compare/1.1.6...1.1.7) (2025-01-21)
 
 
